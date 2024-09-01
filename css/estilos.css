@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;400&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+background-color: #d9f5f9;
+font-family: "Kanit", sans-serif;
+font-weight: 200;
+font-size: 25px;
+}
+
+h1 {
+text-align:left;
+color: rgba(1, 122, 67, 0.951);
+font-weight: 700;
+font-family: "Montserrat", sans-serif;
+font-size: 60px;
+}
+
+h2 {
+text-align:left;
+color: rgba(1, 122, 67, 0.951);
+font-weight: 400;
+font-family: "Kanit", sans-serif;
+font-size: 50px;
+}
+
+
+h3 {
+font-family: "Kanit", sans-serif;
+font-weight: 200;
+    }
+
+a {
+text-decoration: underline;
+color: #100377;
+}
+
+
+
+section {
+text-align:justify;
+color: #000565;
+font-size: 30px;
+font-weight: 300;
+}
+
+#miColor {
+background-color: #ffb0b0;
+color: #860000;
+}
+
+.subrayado {
+text-decoration: underline;
+}
+
+
+
+
+
